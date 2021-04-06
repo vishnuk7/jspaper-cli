@@ -1,6 +1,6 @@
 {
-	"name": "js-note",
-	"version": "1.0.1",
+	"name": "jspaper",
+	"version": "1.0.5",
 	"description": "",
 	"publishConfig": {
 		"access": "public"
@@ -17,13 +17,14 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@notejs/local-client": "^1.0.1"
+		"@notejs/local-client": "^1.0.5"
 	},
 	"devDependencies": {
-		"@notejs/local-api": "^1.0.1",
+		"@notejs/local-api": "^1.0.5",
 		"@types/node": "^14.14.36",
 		"commander": "^7.2.0",
 		"esbuild": "^0.10.2",
 		"typescript": "^4.2.3"
-	}
+	},
+	"gitHead": "b3f36c8fd5f0197824258edb9e75a86de594cb05"
 }
