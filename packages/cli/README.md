@@ -1,5 +1,5 @@
 # JSPapper
-![JSPaperLogo](/README/JSPaperLogo.png)
+![JSPaperLogo](https://raw.githubusercontent.com/vishnuk7/jspaper-cli/main/README/JSPaperLogo.png)
 
 JSPaper is React App which is codeeditor + markdown like jupyter notebook. In this app you can write js and jsx code and also you can write markdown.
 
@@ -15,7 +15,7 @@ $ npm i jspaper -g
 ```bash
 $ npx jspaper serve
 ```
-![default](/README/default.png)
+![default](https://raw.githubusercontent.com/vishnuk7/jspaper-cli/main/README/default.png)
 
 **or**
 
@@ -43,7 +43,7 @@ create custom file and assign a port
 ```bash
 $ jspaper serve book.js -port 3002
 ```
-![default](/README/port.png)
+![default](https://raw.githubusercontent.com/vishnuk7/jspaper-cli/main/README/port.png)
 
 
 ## License
